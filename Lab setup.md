@@ -9,3 +9,5 @@ Once Sentinal is up and running add teh azure activity connection to monitor act
 I used PulseDive below to ingest threat intelligence into Sentinal
 ![membership](images/2.jpg)
 Make sure your threat intelligence and azure activity logs are coming in
+![](images/Taxii.png)
+![](images/Azure.png)
