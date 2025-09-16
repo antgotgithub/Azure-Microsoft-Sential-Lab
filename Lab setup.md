@@ -4,3 +4,4 @@ Prerequisite
  
 1st: Setup your resource group and link it to Microsoft Sentinal
 ![membership](images/1.jpg)
+![membership](images/2.jpg)
