@@ -11,3 +11,6 @@ I used PulseDive below to ingest threat intelligence into Sentinal
 Make sure your threat intelligence and azure activity logs are coming in
 ![](images/Taxii.png)
 ![](images/Azure.png)
+Next download the entra id connector and add a user to the domain and ensure the action is ingested into the logs
+![](images/4.jpg)
+![](images/5.jpg)
