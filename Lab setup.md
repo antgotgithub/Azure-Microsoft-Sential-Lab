@@ -13,4 +13,7 @@ Make sure your threat intelligence and azure activity logs are coming in
 ![](images/Azure.png)
 Next download the entra id connector and add a user to the domain and ensure the action is ingested into the logs
 ![](images/4.jpg)
+![](images/3.jpg)
+Added a vm into the resource group and enabled the windows security event connector to monitor the vm and than ensure the logs are being ingested
 ![](images/5.jpg)
+![](images/7.jpg)
