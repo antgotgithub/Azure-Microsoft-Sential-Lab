@@ -3,20 +3,29 @@
 ## 1. Custom Scheduled Analytics Rules
 Developed custom **scheduled rules** to trigger incidents upon log ingestion, ensuring timely threat detection.
 
-<img src="images/8.jpg" alt="Scheduled Rule Configuration" width="400"/>
-<img src="images/10.jpg" alt="Scheduled Rule Details" width="400"/>
-<img src="images/9.jpg" alt="Scheduled Rule Logic" width="400"/>
-<img src="images/11.jpg" alt="Scheduled Rule Summary" width="400"/>
+<p float="left">
+  <img src="images/8.jpg" alt="Scheduled Rule Configuration" width="500"/>
+  <img src="images/10.jpg" alt="Scheduled Rule Details" width="500"/>
+</p>
+
+<p float="left">
+  <img src="images/9.jpg" alt="Scheduled Rule Logic" width="500"/>
+  <img src="images/11.jpg" alt="Scheduled Rule Summary" width="500"/>
+</p>
 
 ## 2. Near-Real-Time (NRT) Analytics Rules
 Implemented **NRT rules** to facilitate rapid response to security events by running queries every minute, significantly reducing detection latency.
 
-<img src="images/nrt.png" alt="NRT Rule Configuration" width="400"/>
+<p float="left">
+  <img src="images/nrt.png" alt="NRT Rule Configuration" width="500"/>
+</p>
 
 ## 3. Machine Learning-Based Detection Rules
 Integrated **machine learning models** to identify anomalous RDP and SSH login activities, enhancing the detection of sophisticated threats.
 
-<img src="images/13.png" alt="ML Rule Configuration" width="400"/>
+<p float="left">
+  <img src="images/13.png" alt="ML Rule Configuration" width="500"/>
+</p>
 
 ---
 
