@@ -2,6 +2,9 @@ Prerequisite
   - Create an azure acccount
   - Have access to a computer
  
-1st: Setup your resource group and link it to Microsoft Sentinal
+Setup your resource group and link it to Microsoft Sentinal
 ![membership](images/1.jpg)
+
+Once Sentinal is up and running add teh azure activity connection to monitor activity on azure and also add the Taxii threat intelligence connection.
+I used PulseDive below to ingest threat intelligence into Sentinal
 ![membership](images/2.jpg)
