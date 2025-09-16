@@ -17,3 +17,8 @@ Next download the entra id connector and add a user to the domain and ensure the
 Added a vm into the resource group and enabled the windows security event connector to monitor the vm and than ensure the logs are being ingested
 ![](images/5.jpg)
 ![](images/7.jpg)
+Added some custom scheudled rules to trigger incidents when logs are ingested and ensured that these rules were being triggered properly
+![](images/8.jpg)
+![](images/10.jpg)
+![](images/9.jpg)
+![](images/11.jpg)
