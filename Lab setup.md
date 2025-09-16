@@ -26,8 +26,7 @@ Added some custom scheudled rules to trigger incidents when logs are ingested an
 
 ![](images/11.jpg)
 After making some custom scheduled rules you can also make custom nrt rules to ensure quicker response
-(image)
+![](images/nrt.jpg)
 
 Added two machine learning rules to detect anamlous rdp and ssh logins
-(image)
-
+![](images/13.jpg)
