@@ -3,9 +3,8 @@ Added Entra ID hunt
 
 
 Added two queries for the hunt-
-One query for New user detected
+One query for New user detected and one for user deleted
 ![](images/new2.png)
-One query for User deleted 
 ![](images/new3.png)
 
 Created and deleted a new user in Entra ID
