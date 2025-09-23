@@ -2,13 +2,13 @@
 
 Added the **Entra ID** connector and created a hunt to detect user creation and deletion events.
 
+<p float="left">
+  <img src="images/new.png" alt="Entra ID Hunt Overview" width="500"/>
+</p>
 I built **two KQL queries** for the hunt:  
 * **New User Detected**  
 * **User Deleted**
 
-<p float="left">
-  <img src="images/new.png" alt="Entra ID Hunt Overview" width="500"/>
-</p>
 
 To validate the queries, I **created and then deleted a test user** in Entra ID.
 
