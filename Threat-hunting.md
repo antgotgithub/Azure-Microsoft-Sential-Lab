@@ -1,5 +1,6 @@
 Added Entra ID hunt
-(picture)
+![membership](new1.jpg)
+
 
 Added two queries for the hunt-
 One query for New user detected
