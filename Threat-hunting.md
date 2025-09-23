@@ -1,5 +1,5 @@
 Added Entra ID hunt
-![](images/new.jpg)
+![](images/new.png)
 
 
 Added two queries for the hunt-
